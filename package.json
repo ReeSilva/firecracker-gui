@@ -1,0 +1,9 @@
+{
+  "name": "firecracker-gui",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:reesilva/firecracker-gui.git",
+  "author": "Renato Biancalana da Silva <renato.biancalana.silva@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
